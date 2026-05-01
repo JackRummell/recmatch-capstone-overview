@@ -1,4 +1,4 @@
-![RecMatch Banner](images/banner.png)
+![RecMatch Banner](images/banner/recmatch_logo.jpg)
 # RecMatch – System Overview
 
 ## Overview
