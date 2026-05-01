@@ -82,14 +82,14 @@ The application follows a standard client-server architecture:
 ### Create Game – Step 2
 ![Create Game Step 2](images/CreateGameStep2.png)
 
-### Account Dashboard
-![Account Dashboard](images/AccountDashboard.png)
-
 ### Manage Games – Joined
 ![Manage Games Joined](images/ManageGamesJoin.png)
 
 ### Manage Games – Owned
 ![Manage Games Owned](images/ManageGamesOwn.png)
+
+### Account Dashboard
+![Account Dashboard](images/AccountDashboard.png)
 
 ---
 
