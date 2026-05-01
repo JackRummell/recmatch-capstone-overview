@@ -1,7 +1,7 @@
 # RecMatch – System Overview
 
 ## Overview
-RecMatch is a full-stack web application developed as part of a university capstone project designed to simplify the process of organizing and joining recreational sports games.
+RecMatch is a full-stack web application developed as part of a capstone project designed to simplify the process of organizing and joining recreational sports games.
 
 The platform addresses common issues in pickup sports coordination such as scheduling conflicts, poor communication, unreliable attendance, and lack of structure by providing a centralized system for game discovery, creation, payments, and participation tracking.
 
