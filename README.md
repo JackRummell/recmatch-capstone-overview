@@ -1,3 +1,4 @@
+![RecMatch Banner](images/banner.png)
 # RecMatch – System Overview
 
 ## Overview
